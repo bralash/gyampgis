@@ -22,18 +22,18 @@
 				<h2 class="ui header dividing">Grid Controls</h2>
 				<div class="fields">
 					<div class="seven wide field">
-						<input type="text" placeholder="Starting X Coordinate">
+						<input type="number" placeholder="Starting X Coordinate">
 					</div>
 					<div class="seven wide field">
-						<input type="text" placeholder="Ending X Coordinate">
+						<input type="number" placeholder="Ending X Coordinate">
 					</div>
 				</div>
 				<div class="fields">
 					<div class="seven wide field">
-						<input type="text" placeholder="Starting Y Coordinate">
+						<input type="number" placeholder="Starting Y Coordinate">
 					</div>
 					<div class="seven wide field">
-						<input type="text" placeholder="Ending Y Coordinate">
+						<input type="number" placeholder="Ending Y Coordinate">
 					</div>
 					<div class="two wide field">
 					<button class="ui circular blue icon button" title="Show Grid">
@@ -47,10 +47,10 @@
 				<h2 class="ui header dividing">Plot Points</h2>
 				<div class="fields">
 					<div class="field">
-						<input type="text" class="xCood" placeholder="X Coordinate" />
+						<input type="number" class="xCood" placeholder="X Coordinate" />
 					</div>
 					<div class="field">
-						<input type="text" class="yCood" placeholder="Y Coordinate" />
+						<input type="number" class="yCood" placeholder="Y Coordinate" />
 					</div>
 				</div>
 				
